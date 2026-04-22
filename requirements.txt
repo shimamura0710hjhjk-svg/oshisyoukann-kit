@@ -1,0 +1,7 @@
+streamlit
+Pillow
+requests
+python-dotenv
+pydub
+
+pip install -r requirements.txt
