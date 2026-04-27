@@ -15,10 +15,9 @@
   "prompt_text": "サンプル音声の文字起こし内容",
   "voice_dir": "voice_samples/oshi_01/",
   "emotions": {
-    "default": "refer_normal.wav",
-    "whisper": "refer_sexy.wav",
-    "stress": "refer_angry.wav"
-  },
+  "normal": "oshi_01_normal.wav",
+  "whisper": "oshi_01_whisper.wav"
+}
   "response_templates": {
     "default": "俺は推し君Aだ。よろしくな。",
     "whisper": "俺は推し君Aだ。よろしくな。",
